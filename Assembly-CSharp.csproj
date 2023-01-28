@@ -51,6 +51,7 @@
      <None Include="Assets\Other Assets\Contract Killer Package\Shaders\SkinShader.shader" />
      <None Include="Assets\Machine Gun Package\Shader\BDCS.shader" />
      <None Include="Assets\Other Assets\Gems\Shaders\Gem.shader" />
+     <None Include="Assets\UI\Icons\Credit.txt" />
      <None Include="Assets\Shipping Container Environment\Readme.txt" />
      <None Include="Assets\Machine Gun Package\documentation.txt" />
      <None Include="Assets\UI\Backgrounds\Credits.txt" />
