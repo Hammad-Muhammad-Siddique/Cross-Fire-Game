@@ -48,12 +48,14 @@
      <Compile Include="Assets\Other Assets\Contract Killer Package\Demo\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Other Assets\Foot Steps\Scene\move.cs" />
      <Compile Include="Assets\Scripts\PlayerMove.cs" />
+     <Compile Include="Assets\UI\Asset Store\_Heathen Engineering\Samples\UX Examples\Flat Icons [Free]\ToggleSetAnimatorBoolean.cs" />
      <None Include="Assets\Other Assets\Contract Killer Package\Shaders\SkinShader.shader" />
      <None Include="Assets\Machine Gun Package\Shader\BDCS.shader" />
      <None Include="Assets\Other Assets\Gems\Shaders\Gem.shader" />
      <None Include="Assets\UI\Icons\Credit.txt" />
      <None Include="Assets\Shipping Container Environment\Readme.txt" />
      <None Include="Assets\Machine Gun Package\documentation.txt" />
+     <None Include="Assets\UI\Asset Store\_Heathen Engineering\Documentation\UX\Flat Icons [Free]\Read Me.txt" />
      <None Include="Assets\UI\Backgrounds\Credits.txt" />
      <None Include="Assets\3D Project\Shaders\ToonShader.shader" />
      <None Include="Assets\3D Project\Shaders\SpookyStandardShader.shader" />
