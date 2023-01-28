@@ -53,6 +53,7 @@
      <None Include="Assets\Other Assets\Gems\Shaders\Gem.shader" />
      <None Include="Assets\Shipping Container Environment\Readme.txt" />
      <None Include="Assets\Machine Gun Package\documentation.txt" />
+     <None Include="Assets\UI\Backgrounds\Credits.txt" />
      <None Include="Assets\3D Project\Shaders\ToonShader.shader" />
      <None Include="Assets\3D Project\Shaders\SpookyStandardShader.shader" />
      <None Include="Assets\3D Project\Shaders\PlaneFog.shader" />
