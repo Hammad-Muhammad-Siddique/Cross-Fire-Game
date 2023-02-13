@@ -42,6 +42,7 @@
      <Compile Include="Assets\3D Project\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\3D Project\Scripts\WaypointPatrol.cs" />
      <Compile Include="Assets\3D Project\TutorialInfo\Scripts\Readme.cs" />
+     <Compile Include="Assets\ChangeHealth.cs" />
      <Compile Include="Assets\Other Assets\Contract Killer Package\Demo\Scripts\Actions.cs" />
      <Compile Include="Assets\Other Assets\Contract Killer Package\Demo\Scripts\CharacterPanel.cs" />
      <Compile Include="Assets\Other Assets\Contract Killer Package\Demo\Scripts\CharacterViewer.cs" />
