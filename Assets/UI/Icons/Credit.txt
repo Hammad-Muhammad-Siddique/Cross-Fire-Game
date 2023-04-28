@@ -10,3 +10,4 @@ on the website or something:
 <a href="https://www.flaticon.com/free-icons/ammo" title="ammo icons">Ammo icons created by Smashicons - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/health-bar" title="health-bar icons">Health-bar icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/loading-bar" title="loading bar icons">Loading bar icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/play-button" title="play button icons">Play button icons created by Noplubery - Flaticon</a>
